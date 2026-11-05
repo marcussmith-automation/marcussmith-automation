@@ -44,5 +44,5 @@ I built a combined cloud and desktop automation for document processing, printin
 
 ### Contact
 
-* [LinkedIn](https://linkedin.com)
+* [LinkedIn](https://www.linkedin.com/in/m-sm1th/)
 * [Email Me](mailto:maruc850@gmail.com)
