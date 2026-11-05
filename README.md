@@ -32,7 +32,7 @@ My projects solve real operational problems instead of copying standard tutorial
 I redesigned a 13-step manual workflow into a 2-input automated solution using Power Automate Desktop. 
 * Cut process times by 75%, from roughly 2 minutes down to 30 seconds per run.
 * Integrated barcode and badge scans to reduce user input to two steps.
-* Built dynamic record validation and looping to ensure 100% downstream data accuracy.
+* Built dynamic record validation and looping to prevent invalid data from progressing downstream.
 
 #### Document Processing & Archival
 I built a combined cloud and desktop automation for document processing, printing, and archival.
